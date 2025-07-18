@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\implementations\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\skillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\interfaces\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\interfaces\\iskillservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\projectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\implementations\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.application\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1B215C1-9AB7-4EAF-87FC-949D54A35EF0}|DevFreela.Application\\DevFreela.Application.csproj|solutionrelative:devfreela.application\\services\\interfaces\\iprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E871068-DAE6-4E34-92A2-C8C2BBB2FD5B}|DevFreela.API\\DevFreela.API.csproj|c:\\dev\\formacaoaspnetcore\\devfreela\\devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E871068-DAE6-4E34-92A2-C8C2BBB2FD5B}|DevFreela.API\\DevFreela.API.csproj|solutionrelative:devfreela.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\Program.cs",
+              "RelativeDocumentMoniker": "DevFreela.API\\Program.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.API\\Program.cs",
+              "RelativeToolTip": "DevFreela.API\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-17T23:19:57.56Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SkillService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\SkillService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\SkillService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\SkillService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\SkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:55:29.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProjectService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\ProjectService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:51:48.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Implementations\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:50:06.357Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:45:07.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISkillService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Interfaces\\ISkillService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:44:58.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IProjectService.cs",
+              "DocumentMoniker": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeDocumentMoniker": "DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "ToolTip": "C:\\Dev\\FormacaoAspNetCore\\DevFreela\\DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "RelativeToolTip": "DevFreela.Application\\Services\\Interfaces\\IProjectService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T13:44:42.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
